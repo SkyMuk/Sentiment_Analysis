@@ -35,7 +35,3 @@ Feel free to reach out for questions or suggestions!
 ## Acknowledgments
 
 I'd like to express gratitude to the creators of VADER, 🤗 RoBERTa, and Hugging Face for their valuable tools and resources.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
